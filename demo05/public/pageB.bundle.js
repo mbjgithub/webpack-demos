@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(n,e,t){var o=t(3),p=t(2);document.getElementById("pageB").appendChild(p(o(2,6)))},,,function(n,e){function t(n,e){return n*e}n.exports=t}]);
