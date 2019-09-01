@@ -1,1 +1,1 @@
-多入口，使用了webpack.optimize.CommonsChunkPlugin和webpack.optimize.UglifyJsPlugin这两个插件，
+hhahahh
